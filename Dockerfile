@@ -1,2 +1,2 @@
 FROM php:7.3-apache
-COPY ./ /etc/todos
+COPY ./ /var/www/html/
