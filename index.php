@@ -1,1 +1,1 @@
-<?php echo 'PHP output: Fazendo um teste de Deploy com Caprover!'; ?> 
+<?php echo 'PHP output: Teste de demonstração do CapRover!'; ?> 
