@@ -1,1 +1,1 @@
-<?php echo 'PHP output: Hello WorldDDDDDDDDDD!'; ?> 
+<?php echo 'PHP output: Testando deploy automatico CapRover!'; ?> 
